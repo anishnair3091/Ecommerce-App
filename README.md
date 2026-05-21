@@ -9,9 +9,10 @@ Our platform delivers a modern, intuitive interface that makes browsing, searchi
 
 <img width="463" height="698" alt="PHOTO-2026-01-30-17-36-28 2" src="https://github.com/user-attachments/assets/d79a5c95-d6ae-4ef7-9808-17ede1ec45fc" />
 
-
 #### Smart Product Management
 Showcase your products with high-quality images, detailed descriptions, and well-organized categories that make browsing a pleasure. Real-time inventory control ensures that stock levels are always accurate, reducing the risk of overselling and backorders. Product variations, bundles, and seasonal promotions can be easily managed, giving your business the flexibility to respond to market demand while keeping the catalog visually appealing and up-to-date.
+
+<img width="2170" height="3921" alt="IntservAI-E-commerce App-Ritu Kumar page" src="https://github.com/user-attachments/assets/666dc2a6-bc96-4dbd-be76-d0b4649b22d9" />
 
 #### Secure Shopping & Checkout
 Our streamlined shopping cart and optimized checkout process reduce cart abandonment and enhance customer confidence. With clear prompts, secure data handling, and minimal steps, customers can complete purchases quickly and securely. The platform supports features like guest checkout, saved address options, and order confirmations, ensuring a hassle-free buying experience every time.
