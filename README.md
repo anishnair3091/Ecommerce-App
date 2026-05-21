@@ -6,6 +6,9 @@
 #### Seamless User Experience
 Our platform delivers a modern, intuitive interface that makes browsing, searching, and purchasing products effortless across all devices. Customers can easily discover products through smart search, well-organized categories, and responsive layouts optimized for mobile, tablet, and desktop. A streamlined checkout process, clear product visuals, and user-friendly navigation ensure a smooth, engaging shopping journey—enhancing customer satisfaction, increasing conversions, and encouraging repeat purchases.
 
+<img width="463" height="698" alt="PHOTO-2026-01-30-17-36-28 2" src="https://github.com/user-attachments/assets/d79a5c95-d6ae-4ef7-9808-17ede1ec45fc" />
+
+
 #### Smart Product Management
 Showcase your products with high-quality images, detailed descriptions, and well-organized categories that make browsing a pleasure. Real-time inventory control ensures that stock levels are always accurate, reducing the risk of overselling and backorders. Product variations, bundles, and seasonal promotions can be easily managed, giving your business the flexibility to respond to market demand while keeping the catalog visually appealing and up-to-date.
 
