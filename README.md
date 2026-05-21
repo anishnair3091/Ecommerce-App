@@ -1,3 +1,4 @@
+
 # Ecommerce-App
 
 #### My e-commerce platform delivers a seamless, secure, and engaging shopping experience across all devices. With intuitive navigation, smart product management, flexible payment options, and personalized customer features, it empowers businesses to drive sales, streamline operations, and build lasting customer loyalty—all backed by powerful analytics and enterprise-grade security.
@@ -14,6 +15,8 @@ Showcase your products with high-quality images, detailed descriptions, and well
 
 #### Secure Shopping & Checkout
 Our streamlined shopping cart and optimized checkout process reduce cart abandonment and enhance customer confidence. With clear prompts, secure data handling, and minimal steps, customers can complete purchases quickly and securely. The platform supports features like guest checkout, saved address options, and order confirmations, ensuring a hassle-free buying experience every time.
+
+<img width="1502" height="862" alt="Screenshot 2026-05-21 at 3 39 12 PM" src="https://github.com/user-attachments/assets/86b32122-4f58-4b41-90d9-44435d3be6d2" />
 
 #### Multiple Payment Solutions
 Our platform is designed to support seamless integration with a wide range of leading payment gateways, allowing customers to complete transactions using their preferred methods—such as credit and debit cards, digital wallets, UPI, or net banking. Payment integration is implemented based on client requirements and the selected gateway provider. All transactions are configured to follow industry-standard security practices, including encryption and fraud prevention measures, ensuring a secure and reliable checkout experience while maintaining compliance with applicable security standards.
