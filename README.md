@@ -34,5 +34,8 @@ The solution is structured to accommodate marketing tools such as promotions, di
 #### Analytics & Admin Control
 The platform includes the built-in Django Admin panel for comprehensive management of products, orders, customers, and inventory. A RESTful API is currently implemented to support a custom dashboard interface, providing a modern and flexible management experience. Future enhancements will extend the API for integrations and automation workflows, once additional front-end development capabilities are completed.
 
+<img width="1511" height="866" alt="Screenshot 2026-05-21 at 3 51 28 PM" src="https://github.com/user-attachments/assets/78d26da6-5f37-41e4-92b4-2230d7e6c527" />
+
+
 #### Enterprise-Grade Security
 We prioritize security at every level of the platform. Advanced encryption, secure login protocols, and compliance with global data protection standards ensure that customer information and payment data are always safe. Role-based access controls, regular security audits, and proactive monitoring provide businesses with peace of mind while maintaining customer trust.
